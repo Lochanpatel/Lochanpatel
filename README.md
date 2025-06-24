@@ -45,18 +45,17 @@
 > 🧩 Features: progress tracker, customizable sheets, gamification, and creator collaboration  
 > 🌐 Built using `React`, `React Router`, `Context API`, `Tailwind`, `Node.js`, `MongoDB`
 
-🔗 [Check it out (coming soon...)](https://github.com/lochanpatel/DSA-Fusion-Hub)
+🔗 [Check it out](https://github.com/lochanpatel/DSA-Fusion-Hub)
 
 ---
 
 ### 💬 Let's Connect
 
 <p>
-  📬 Email: lochanpatel.official@gmail.com  
+  📬 Email: patellochan31@gmail.com  
   🌐 Portfolio: *(add when ready)*  
   🧠 Coding Profiles:  
-  - [LeetCode](https://leetcode.com/) *(add actual profile)*  
-  - [Codeforces](https://codeforces.com/) *(add actual profile)*  
+  - [LeetCode](https://leetcode.com/u/lochanpatel/)  
 </p>
 
 ---
