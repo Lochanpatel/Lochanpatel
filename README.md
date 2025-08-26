@@ -13,17 +13,16 @@
 - 🌱 I’m currently learning **React**, **REST APIs**, and deepening my understanding of **C++ DSA**
 - 🛠️ I’m building **DSA Fusion Hub** – a personalized DSA preparation platform
 - 🎮 In my free time, I like to **play outside** and solve **coding challenges**
-- 💡 I love merging **clean UI/UX** with **functional backend logic**
 
 ---
 
 ### 🔧 Tech Stack
 
 - 💻 Languages: `C++`, `JavaScript`, `HTML`, `CSS`
-- 🌐 Frontend: `React`, `Tailwind CSS`, `Bootstrap`
+- 🌐 Frontend: `React`, `Tailwind CSS`,
 - 🛠 Backend: `Node.js`, `Express.js`
 - 🗄️ Database: `MongoDB`, `Firebase (basics)`
-- ⚙️ Tools: `Git`, `GitHub`, `VS Code`, `Postman`
+- ⚙️ Tools: `Git`, `GitHub`, `VS Code`
 
 ---
 
@@ -39,26 +38,6 @@
 
 ---
 
-### 🔥 Featured Project – DSA Fusion Hub
-
-> 🧠 A smart platform that aggregates & personalizes DSA prep sheets from various creators  
-> 🧩 Features: progress tracker, customizable sheets, gamification, and creator collaboration  
-> 🌐 Built using `React`, `React Router`, `Context API`, `Tailwind`, `Node.js`, `MongoDB`
-
-🔗 [Check it out](https://github.com/lochanpatel/DSA-Fusion-Hub)
-
----
-
-### 💬 Let's Connect
-
-<p>
-  📬 Email: patellochan31@gmail.com  
-  🌐 Portfolio: *(add when ready)*  
-  🧠 Coding Profiles:  
-  - [LeetCode](https://leetcode.com/u/lochanpatel/)  
-</p>
-
----
 
 ### 😄 Fun Fact
 
