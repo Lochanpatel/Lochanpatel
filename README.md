@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Student at Chandigarh University | Passionate About Software Development</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Learning+to+Code+Daily;C%2B%2B+%7C+React+%7C+Node.js;Building+DSA+Fusion+Hub;Loves+to+Play+Outside+%26+Code+Inside" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Learning+to+Code+Daily;C%2B%2B+%7C+React+%7C+DSA;Coding+My+Future;Loves+to+Play+Outside+%26+Code+Inside" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,34 +10,31 @@
 ### 🧑‍💻 About Me
 
 - 🎓 I'm currently pursuing my degree at **Chandigarh University**
-- 🌱 I’m currently learning **React**, **REST APIs**, and deepening my understanding of **C++ DSA**
-- 🛠️ I’m building **DSA Fusion Hub** – a personalized DSA preparation platform
+- 🌱 - Ranked **29th** in India's biggest skill contest, **Naukri Campus Young Turks**, among **5.1 lakh+ students**.
+- 🛠️ Completed **LeetCode 100 Days of Code 2025**, solved **300+ questions**. 
 - 🎮 In my free time, I like to **play outside** and solve **coding challenges**
-
+- 🌱 **Top Kargil Batch student** at Chandigarh University; ranked **60th among 7,000 peers**. 
 ---
-<!--
 
 ### 🔧 Tech Stack
 
-- 💻 Languages: `C++`, `JavaScript`, `HTML`, `CSS`
-- 🌐 Frontend: `React`, `Tailwind CSS`,
-- 🛠 Backend: `Node.js`, `Express.js`
-- 🗄️ Database: `MongoDB`, `Firebase (basics)`
-- ⚙️ Tools: `Git`, `GitHub`, `VS Code`
+## 🛠 Tech Stack
 
----
+- 💻 Languages: 
+  `C`, `C++`, `JavaScript`, `SQL`, `HTML`, `CSS`
 
-### 📈 GitHub Stats
+- 🌐 Frontend: 
+  `React`, `Tailwind CSS`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lochanpatel&show_icons=true&theme=radical" alt="Lochan's GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lochanpatel&theme=radical" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lochanpatel&layout=compact&theme=radical" />
-</p>
+- 🗄️ Databases:  
+  `MongoDB`, `MySQL`
 
----
+- ☁️ Cloud & Deployment:  
+   `Vercel`, `Netlify`, `Docker`, `Kubernetes`
+
+- ⚙️ Tools & Platforms:  
+  `Git`, `GitHub`, `VS Code`, `IntelliJ IDEA`, `Notion`
+
 
 
 ### 😄 Fun Fact
@@ -49,5 +46,3 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
-
--->
