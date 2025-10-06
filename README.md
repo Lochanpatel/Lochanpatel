@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lochan Patel</h1>
-<h3 align="center">🚀 Student at Chandigarh University | Passionate Full Stack Developer & DSA Enthusiast</h3>
+<h3 align="center">🚀 Student at Chandigarh University | Passionate About Software Development</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;C%2B%2B+%7C+React+%7C+Node.js;Building+DSA+Fusion+Hub;Loves+to+Play+Outside+%26+Code+Inside" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Learning+to+Code+Daily;C%2B%2B+%7C+React+%7C+Node.js;Building+DSA+Fusion+Hub;Loves+to+Play+Outside+%26+Code+Inside" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,6 +15,7 @@
 - 🎮 In my free time, I like to **play outside** and solve **coding challenges**
 
 ---
+<!--
 
 ### 🔧 Tech Stack
 
@@ -49,3 +50,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
+-->
