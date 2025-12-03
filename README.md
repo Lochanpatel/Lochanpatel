@@ -11,7 +11,7 @@
 
 - 🎓 I'm currently pursuing my degree at **Chandigarh University**
 - 🌱 - Ranked **29th** in India's biggest skill contest, **Naukri Campus Young Turks**, among **5.1 lakh+ students**.
-- 🛠️ Completed **LeetCode 100 Days of Code 2025**, solved **300+ questions**. 
+- 🛠️ Completed **LeetCode 100 Days of Code 2025**, solved **450+ questions**. 
 - 🎮 In my free time, I like to **play outside** and solve **coding challenges**
 - 🌱 **Top Kargil Batch student** at Chandigarh University; ranked **60th among 7,000 peers**. 
 ---
