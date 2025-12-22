@@ -21,22 +21,22 @@
 ## 🛠 Tech Stack
 
 - 💻 Languages: 
-  `C`, `C++`, `SQL`, `HTML`, `CSS`, `JavaScript`, `TypeScript`, `HTML`, `CSS`
+  `C`, `C++`, `SQL`, `HTML`, `CSS`, `JavaScript`, `TypeScript`
   
-- 🌐 Frameworks & Libraries
+- 🌐 Frameworks & Libraries:
 `React.js` `Next.js` `Vue.js` `Node.js` `Express`
 
-- 🗄️ Databases:  
-  `MongoDB`, `MySQL`
+- 🗄️ Databases:
+`MongoDB`, `MySQL`
 
 - ☁️ Cloud & Deployment:  
-   `Vercel`, `Docker`, `Kubernetes`,
-  `AWS (EC2, S3, IAM, RDS, CloudWatch, VPC)`   
+`Vercel`, `Docker`, `Kubernetes`,
+`AWS (EC2, S3, IAM, RDS, CloudWatch, VPC)`   
 
 - ⚙️ Tools & Platforms:  
-  `Git`, `GitHub`, `VS Code`, `IntelliJ IDEA`, `Notion`
+`Git`, `GitHub`, `VS Code`, `IntelliJ IDEA`, `Notion`
 
-- 🔄 Methodologies
+- 🔄 Methodologies:
 `Agile` `Scrum`
 
 
