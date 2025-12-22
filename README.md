@@ -11,7 +11,7 @@
 
 - 🎓 I'm currently pursuing my degree at **Chandigarh University**
 - 🌱 - Ranked **29th** in India's biggest skill contest, **Naukri Campus Young Turks**, among **5.1 lakh+ students**.
-- 🛠️ Completed **LeetCode 100 Days of Code 2025**, solved **450+ questions**. 
+- 🛠️ Completed **LeetCode 200 Days of Code 2025**, solved **450+ questions**. 
 - 🎮 In my free time, I like to **play outside** and solve **coding challenges**
 - 🌱 **Top Kargil Batch student** at Chandigarh University; ranked **60th among 7,000 peers**. 
 ---
@@ -21,19 +21,23 @@
 ## 🛠 Tech Stack
 
 - 💻 Languages: 
-  `C`, `C++`, `JavaScript`, `SQL`, `HTML`, `CSS`
-
-- 🌐 Frontend: 
-  `React`, `Tailwind CSS`
+  `C`, `C++`, `SQL`, `HTML`, `CSS`, `JavaScript`, `TypeScript`, `HTML`, `CSS`
+  
+- 🌐 Frameworks & Libraries
+`React.js` `Next.js` `Vue.js` `Node.js` `Express`
 
 - 🗄️ Databases:  
   `MongoDB`, `MySQL`
 
 - ☁️ Cloud & Deployment:  
-   `Vercel`, `Netlify`, `Docker`, `Kubernetes`
+   `Vercel`, `Docker`, `Kubernetes`,
+  `AWS (EC2, S3, IAM, RDS, CloudWatch, VPC)`   
 
 - ⚙️ Tools & Platforms:  
   `Git`, `GitHub`, `VS Code`, `IntelliJ IDEA`, `Notion`
+
+- 🔄 Methodologies
+`Agile` `Scrum`
 
 
 
